@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "733217260419",
+    "project_id": "kajianpro",
+    "storage_bucket": "kajianpro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733217260419:android:46eae08b8b73f772acacb6",
+        "android_client_info": {
+          "package_name": "id.co.kajianpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733217260419-fgiqua861l78hmc69pi3v9n1u5ilep49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.co.kajianpro",
+            "certificate_hash": "bd93551e54e1eb55a73369487cfdaadb9d70dacc"
+          }
+        },
+        {
+          "client_id": "733217260419-dbeadjtoh8ekuu00da8cujco2lg8a64h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzLMeuMx2YeArjXwJZMOpBpgOKi4lraOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733217260419-dbeadjtoh8ekuu00da8cujco2lg8a64h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

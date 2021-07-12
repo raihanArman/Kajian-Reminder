@@ -1,0 +1,3 @@
+include ':mantap'
+include ':app'
+rootProject.name = "Kajian Pro"
